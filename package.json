@@ -1,0 +1,21 @@
+{
+  "name": "com.alreylz.unity-package-template",
+  "version": "1.0.0",
+  "displayName": "Empty Unity Package Template",
+  "description": "Template project to use as base for creating unity packages  ",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/coredamnwork/unity-package-template",
+  "changelogUrl": "https://github.com/coredamnwork/unity-package-template",
+  "licensesUrl": "https://github.com/coredamnwork/unity-package-template",
+  "keywords": [ "template","unity package"
+  ],
+  "author": {
+    "name": "Alejandro Rey López",
+    "email": "alejandro.rey@uc3m.es",
+    "url": "https://github.com/coredamnwork/"
+  },
+  "publishConfig": {
+    "registry": "https://unity.alreylz.me"
+  }
+  
+}
